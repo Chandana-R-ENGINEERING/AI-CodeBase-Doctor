@@ -1,0 +1,6 @@
+{
+  "name": "AI Codebase Doctor",
+  "description": "Autonomous AI software engineering agent that diagnoses, repairs, validates, and prepares Pull Requests for codebases with human approval before merge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
